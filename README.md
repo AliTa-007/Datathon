@@ -1,5 +1,5 @@
 # Datathon 🎯🎓🧩
-We joined a data contest with 2 of my classmates. Data manipulation at its finest with a pinch of ML other skills.
+We joined a data contest with 2 of my classmates. Data manipulation at its finest with a pinch of ML along with some other skills.
 
 🤵💼 Bora Esen (Intelligent and practical) 
 https://www.linkedin.com/in/bora-esen/
